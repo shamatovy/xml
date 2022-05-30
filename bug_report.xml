@@ -1,1 +1,5 @@
-
+<bug>
+  <id>1</id>
+  <subject>form</subject>
+  <description>button "send" dont sending info</description>
+</bug>
